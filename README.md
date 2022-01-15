@@ -1,4 +1,4 @@
-# Covid-Antivirus-Simulation
+# Figter-Plane-Simulation
 
 A Netlogo game simulation of two fighter planes battle until one wins.
 
